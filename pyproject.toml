@@ -1,0 +1,18 @@
+[project]
+name = "getmodulerely"
+version = "1.0.0"
+authors = [
+  { name="三个木石", email="1597830500@qq.com" },
+]
+description = "查看Python第三方模块的依赖包信息"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU General Public License (GPL)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/SGMS-DCT/GetModuleRely"
+Issues = "https://github.com/SGMS-DCT/GetModuleRely/issues"
